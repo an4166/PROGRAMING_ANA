@@ -1,0 +1,33 @@
+/* Mengatur warna latar belakang seluruh halaman */
+body {
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+}
+
+/* Mengatur gaya judul */
+h1 {
+    color: darkblue;
+    text-align: center;
+    font-size: 36px;
+}
+
+/* Mengatur paragraf */
+p {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+/* Mengatur link (tautan) */
+a {
+    text-decoration: none;
+    color: red;
+}
+
+/* Efek saat mouse diarahkan ke link */
+a:hover {
+    text-decoration: underline;
+    font-weight: bold;
+}
